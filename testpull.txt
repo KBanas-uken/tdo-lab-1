@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aas
+=======
+aaa
+>>>>>>> 46f524a (Wpis do testpull)
